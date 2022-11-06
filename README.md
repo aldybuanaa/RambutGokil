@@ -5,24 +5,23 @@
 
 # About Project
 
-FoodPin is an application for iOS that contains a list of information regarding the identity and location of coffeeshops or restaurants. This application project was created to fulfill the task of fazztrack bootcamp.
+RambutGokil is an application for iOS that contains a list of Hairstyle information. This application project was created to fulfill the Last Project of Dicoding Academy.
 
 # Work Plan
 
-the following are some of the features of the FoodPin application made using Swift, UIKit with MVVM, Storyboard, Mapkit:
+the following are some of the features of the FoodPin application made using Swift, SwiftUI, Mapkit:
 
-- list location using Table View 
-- Detail Location with map view
-- Add new location
-- Add image from gallery
-- Add image from camera
+- List of Hairstyle using NavigationView and list
+- Detail information of Hairstyle
+- Profile Page 
+
 
 # Screenshot
 
- <img src="https://res.cloudinary.com/dhs3ddasg/image/upload/v1667470379/foodpin1_rz4hce.png">
- <img src="https://res.cloudinary.com/dhs3ddasg/image/upload/v1667470379/foodpin2_hv7jnd.png">
- <img src="https://res.cloudinary.com/dhs3ddasg/image/upload/v1667470379/foodpin3_a8usgr.png">
- <img src="https://res.cloudinary.com/dhs3ddasg/image/upload/v1667470427/foodpin4_bfnsir.png">
+ <img src="https://res.cloudinary.com/dhs3ddasg/image/upload/v1667728996/Github/RambutGokil/rambutgokil1_qikg1n.png">
+ <img src="https://res.cloudinary.com/dhs3ddasg/image/upload/v1667728997/Github/RambutGokil/rambutgokil2_izgsut.png">
+ <img src="https://res.cloudinary.com/dhs3ddasg/image/upload/v1667728996/Github/RambutGokil/rambutgokil3_lkcxpr.png">
+ <img src="https://res.cloudinary.com/dhs3ddasg/image/upload/v1667728996/Github/RambutGokil/rambutgokil4_icknmm.png">
 
 # Tech Stack
 
@@ -30,7 +29,7 @@ the following are some of the features of the FoodPin application made using Swi
 
 ### Instalation:
 
-- Double click file `FoodPin.xcodeproj`
+- Double click file `RambutGokil.xcodeproj`
 - Choose iOS simulator and you are ready to go
 
 <!-- </> with 💛 by readMD (https://readmd.itsvg.in) -->
