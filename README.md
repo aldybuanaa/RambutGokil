@@ -9,7 +9,7 @@ RambutGokil is an application for iOS that contains a list of Hairstyle informat
 
 # Work Plan
 
-the following are some of the features of the FoodPin application made using Swift, SwiftUI, Mapkit:
+the following are some of the features of the RambutGokil application is made using Swift, SwiftUI:
 
 - List of Hairstyle using NavigationView and list
 - Detail information of Hairstyle
